@@ -4,8 +4,8 @@ This project provides a Python script to convert KML (Keyhole Markup Language) f
 
 ## Features
 
-- Converts KML files to Shapefiles or GeoPackage formats.
-- Utilizes open-source geospatial libraries: **GeoPandas** and **GDAL**.
+- Converts KML files to Shapefiles.
+- Utilizes open-source geospatial library: **GeoPandas**.
 
 ## Prerequisites
 
